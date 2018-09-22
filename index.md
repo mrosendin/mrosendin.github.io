@@ -1,21 +1,12 @@
 ## Welcome to my homepage
 
+### About Me
+
+I work at a company called [Ripple](https://ripple.com) where I help our customers integrate our products that enable the future of cross-border payments. Previously, I created a cryptocurrency portfolio management app called [Polyledger](https://polyledger.com) and before that, I worked as a developer at [Zendesk](https://zendesk.com). In my free time, I like to contribute to open-source code, study the Italian language, and golf.
+
 Follow me on social media:
 
 - [Medium](https://medium.com/@matthew.rosendin)
 - [Twitter](https://twitter.com/mattrosendin)
 - [LinkedIn](https://www.linkedin.com/in/rosendin/)
 - [GitHub](https://github.com/rosendin)
-
-### My company
-
-I'm currently starting a cryptocurrency company, [Polyledger](https://polyledger.com/).
-
-> At Polyledger, we're making digital currency portfolios simple. We are truly passionate about making the experience of owning digital currency amazing. That's why we're trying to solve common problems faced by digital currency investors: high exposure to downside risk, segregation of accounts, and lack of expert advice. We believe the future of money is digital and by 2050 there will be billions of people transacting with digital currency. We are deeply committed to pioneering digital currency investment services for the future.
-
-Follow us on social media:
-
-- [Medium](https://medium.com/polyledger)
-- [Twitter](https://twitter.com/polyledger)
-- [LinkedIn](https://www.linkedin.com/company/polyledger/)
-- [GitHub](https://github.com/polyledger)
