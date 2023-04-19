@@ -1,13 +1,15 @@
-## Welcome to my homepage
+## Welcome to the Professional Portfolio of Matt Rosendin
 
-### Summary
+### Overview
 
-I am currently VP of Ledger at [Linqto](https://linqto.com) where I'm creating an alternative trading system for private equity. I am a co-founder of [Trustline](https://trustline.co) where I created a payments mobile app and an asset-based lending protocol. Previously, I worked at a company called [Ripple Labs](https://ripple.com) where I helped financial institutions integrate software for cross-border payments. I also created a cryptocurrency portfolio management app called [Polyledger](https://github.com/polyledger) and before that, I worked as a developer at [Zendesk](https://zendesk.com).
+I currently hold the position of Vice President of Ledger at [Linqto](https://linqto.com), where I am developing an innovative alternative trading system for private equity. My professional journey includes co-founding [Trustline](https://trustline.co) and working with [Ripple](https://ripple.com) to assist financial institutions in integrating software solutions for cross-border payments. In the earlier stages of my career, I co-founded [Polyledger](https://github.com/polyledger), a digital asset portfolio management application, and commenced my post-collegiate endeavors as a developer at [Zendesk](https://zendesk.com).
 
-### Internet Presence
+During my academic years at Santa Clara University, I gained valuable internship experience in Silicon Valley, with roles in commercial real estate at Colliers, residential real estate at Christie's International Real Estate Sereno, and at a boutique wealth management firm.
 
-Follow me on Twitter, check out my public GitHub projects, or connect with me on LinkedIn:
+### Connect with Me Online
+
+I invite you to explore my online presence by following me on Twitter, browsing my public GitHub projects, or connecting with me on LinkedIn:
 
 - [Twitter](https://twitter.com/mattrosendin)
-- [LinkedIn](https://www.linkedin.com/in/mrosendin/) (invitations to connect only accepted if we know each other)
+- [LinkedIn](https://www.linkedin.com/in/mrosendin/) (Please note: Connection requests will only be accepted from individuals with whom I have a prior relationship)
 - [GitHub](https://github.com/mrosendin)
