@@ -38,7 +38,7 @@ Mobile payments application developed on the XRP Ledger.
 
 Lending marketplace platform developed on the EVM.
 
-![lending](https://user-images.githubusercontent.com/3401412/236332749-946df2ef-e0eb-43a5-942f-1979c3506b6a.jpeg)
+![lending](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/38bdbddc-216b-4ca5-9d75-28417c061832)
 
 #### Investment Portfolio Manager
 
