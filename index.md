@@ -20,14 +20,6 @@ If you're interested in exploring an advisory relationship with your startup, pl
 
 ### Featured Projects
 
-All of the below screenshots were developed by yours truly.
-
-#### Automated Market Maker for Private Securities
-
-Piloted AMM technology to enable continuous liquidity in traditionally illiquid markets.
-
-![brokerage](https://user-images.githubusercontent.com/3401412/236332854-778983ff-cc52-4a20-aec8-6fa328c7ea97.jpeg)
-
 #### Mobile Payments App
 
 Mobile payments application developed on the XRP Ledger.
