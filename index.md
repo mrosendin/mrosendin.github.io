@@ -20,6 +20,13 @@ If you're interested in exploring an advisory relationship with your startup, pl
 
 ### Featured Projects
 
+#### Trading Platform for Tokenized Private Equity Securities
+
+An automated market maker for tokenized securities developed on the EVM. (Forked from Uniswap V2.)
+
+![amm](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/9b6444d0-eca1-4adb-a230-9dd0010bd24e)
+
+
 #### Mobile Payments App
 
 Mobile payments application developed on the XRP Ledger.
