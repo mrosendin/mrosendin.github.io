@@ -35,7 +35,7 @@ Mobile payments application developed on the XRP Ledger.
 
 #### Asset-based Lending Platform
 
-Lending marketplace platform developed on the EVM.
+Private credit marketplace platform developed on the EVM.
 
 ![lending](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/38bdbddc-216b-4ca5-9d75-28417c061832)
 
