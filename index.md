@@ -47,7 +47,7 @@ Portfolio management web application for digital assets.
 
 #### Data Management Application
 
-Zendesk application to simplify data management.
+Zendesk application to simplify data management for support tickets, end users, and help desk configurations.
 
 ![screely-1683235394723](https://user-images.githubusercontent.com/3401412/236333161-676e7c6c-1c30-498f-b06a-4f04e4d6525d.png)
 
