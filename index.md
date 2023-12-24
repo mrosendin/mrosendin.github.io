@@ -20,7 +20,7 @@ If you're interested in exploring an advisory relationship with your startup, pl
 
 ### Featured Projects
 
-#### Trading Platform for Tokenized Private Equity Securities
+#### Trading Platform for Tokenized Securities
 
 An automated market maker for tokenized securities developed on the EVM. (Forked from Uniswap V2.)
 
