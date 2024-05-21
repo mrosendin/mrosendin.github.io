@@ -14,11 +14,18 @@ I invite you to explore my online presence by following me on Twitter, browsing 
 - [LinkedIn](https://www.linkedin.com/in/mrosendin/) (Please note: Connection requests will only be accepted from individuals with whom I have a prior relationship)
 - [GitHub](https://github.com/mrosendin)
 
-### Startup Advisory
-
-If you're interested in exploring an advisory relationship with your startup, please email me: matt.rosendin@gmail.com
-
 ### Featured Projects
+
+#### Restricted Security Tokenization Platform
+
+Tokenization platform for restricted stock with embeddable transfer rules for automated compliance.
+
+[View the public pre-release demo](https://www.youtube.com/watch?v=dZi9l-yEC94&t=1s)
+
+![screely-1713230719926](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/979845ad-e36c-4805-b504-46e29c57e8c9)
+![screely-1713230848161](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/fbc14e9b-1ab0-4976-ab0d-5fe3daac02be)
+![screely-1713562672437](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/21cadbca-abbe-4f52-a03a-0c38adc479a1)
+
 
 #### Trading Platform for Tokenized Securities
 
