@@ -22,39 +22,39 @@ Tokenization platform for restricted stock with embeddable transfer rules for au
 
 [View the public pre-release demo](https://www.youtube.com/watch?v=dZi9l-yEC94&t=1s)
 
-<kbd>![screely-1713230719926](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/979845ad-e36c-4805-b504-46e29c57e8c9)</kbd>
-<kbd>![screely-1713230848161](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/fbc14e9b-1ab0-4976-ab0d-5fe3daac02be)</kbd>
-<kbd>![screely-1713562672437](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/21cadbca-abbe-4f52-a03a-0c38adc479a1)</kbd>
-
+![screely-1716513790290](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/92ab662f-dc2e-41c3-9a32-c1d28067876e)
+![screely-1713230719926](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/979845ad-e36c-4805-b504-46e29c57e8c9)
+![screely-1713230848161](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/fbc14e9b-1ab0-4976-ab0d-5fe3daac02be)
+![screely-1713562672437](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/21cadbca-abbe-4f52-a03a-0c38adc479a1)
 
 #### Trading Platform for Tokenized Securities
 
 An automated market maker for tokenized securities developed on the EVM. (Forked from Uniswap V2.)
 
-<kbd>![amm](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/9b6444d0-eca1-4adb-a230-9dd0010bd24e)</kbd>
+![amm](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/9b6444d0-eca1-4adb-a230-9dd0010bd24e)
 
 
 #### Mobile Payments App
 
 Mobile payments application developed on the XRP Ledger.
 
-<kbd>![payments](https://user-images.githubusercontent.com/3401412/236332805-ca43e1e8-7232-43d6-ae96-6b7ec60b4c84.jpeg)</kbd>
+![payments](https://user-images.githubusercontent.com/3401412/236332805-ca43e1e8-7232-43d6-ae96-6b7ec60b4c84.jpeg)
 
 #### Asset-based Lending Platform
 
 Private credit marketplace platform developed on the EVM.
 
-<kbd>![lending](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/38bdbddc-216b-4ca5-9d75-28417c061832)</kbd>
+![lending](https://github.com/mrosendin/mrosendin.github.io/assets/3401412/38bdbddc-216b-4ca5-9d75-28417c061832)
 
 #### Investment Portfolio Manager
 
 Portfolio management web application for digital assets.
 
-<kbd>![screely-1683235386084](https://user-images.githubusercontent.com/3401412/236333140-e781bde3-9de3-4f24-ace3-d09364a8db6f.png)</kbd>
+![screely-1683235386084](https://user-images.githubusercontent.com/3401412/236333140-e781bde3-9de3-4f24-ace3-d09364a8db6f.png)
 
 #### Data Management Application
 
 Zendesk application to simplify data management for support tickets, end users, and help desk configurations.
 
-<kbd>![screely-1683235394723](https://user-images.githubusercontent.com/3401412/236333161-676e7c6c-1c30-498f-b06a-4f04e4d6525d.png)</kbd>
+![screely-1683235394723](https://user-images.githubusercontent.com/3401412/236333161-676e7c6c-1c30-498f-b06a-4f04e4d6525d.png)
 
