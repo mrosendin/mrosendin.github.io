@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matt Rosendin</title>
+  <meta name="description" content="Builder, founder, engineer. 10+ years shipping financial infrastructure, payment systems, and developer platforms.">
+  <meta property="og:title" content="Matt Rosendin">
+  <meta property="og:description" content="Builder, founder, engineer. 10+ years shipping financial infrastructure, payment systems, and developer platforms.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mrosendin.github.io">
+  <meta name="theme-color" content="#0b0b0f">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;600;650;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ─── NAV ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="#" class="nav-name">Matt Rosendin</a>
+    <ul class="nav-links">
+      <li><a href="#work">Work</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="https://github.com/mrosendin" target="_blank">GitHub</a></li>
+      <li><a href="https://linkedin.com/in/mrosendin" target="_blank">LinkedIn</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- ─── HERO ─── -->
+<section class="hero">
+  <h1>Builder, founder,<br>engineer.</h1>
+  <p class="subtitle">10+ years shipping financial infrastructure, payment systems, and developer platforms. 3x founder. M.Eng from UC Berkeley.</p>
+  <div class="hero-links">
+    <a href="mailto:matt.rosendin@gmail.com" class="primary">Get in touch</a>
+    <a href="https://github.com/mrosendin" target="_blank" class="secondary">GitHub</a>
+    <a href="https://linkedin.com/in/mrosendin" target="_blank" class="secondary">LinkedIn</a>
+  </div>
+</section>
+
+<!-- ─── FEATURED WORK ─── -->
+<section id="work" class="section">
+  <p class="section-label">Featured Work</p>
+  <h2 class="section-title">What I've built</h2>
+  <p class="section-desc">A selection of products I've designed and engineered — from enterprise accounting to consumer wallets to meme coins.</p>
+
+  <!-- ─── AXIOMATIC ─── -->
+  <article class="project fade-in">
+    <div class="project-header">
+      <span class="project-tag">Founder</span>
+      <h3 class="project-name">Axiomatic</h3>
+      <p class="project-role">Triple-entry accounting platform &amp; noncustodial neobank</p>
+      <p class="project-description">Built a full-scale accounting platform with multi-book GAAP support, verifiable proofs, and on-chain anchoring — alongside a consumer wallet app with private balances, card spend, and DeFi yield. Shipped both products in weeks using AI-assisted development.</p>
+      <div class="project-tech">
+        <span>TypeScript</span>
+        <span>Next.js</span>
+        <span>PostgreSQL</span>
+        <span>Solidity</span>
+        <span>Halo2 / ZK</span>
+        <span>ERC-4337</span>
+        <span>Cursor + Claude</span>
+      </div>
+    </div>
+
+    <div class="subsection">
+      <h4 class="subsection-title">Ledger Platform</h4>
+      <p class="subsection-desc">Multi-book accounting, intercompany, AR/AP, treasury, reconciliation, practice management, and verifiable proofs.</p>
+      <div class="gallery">
+        <div class="gallery-item featured">
+          <img src="assets/axiomatic-ledger/chart-of-accounts.png" alt="Axiomatic Chart of Accounts" loading="lazy">
+          <div class="caption">Chart of Accounts — multi-currency with role mappings</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/journal-entries.png" alt="Axiomatic Journal Entries" loading="lazy">
+          <div class="caption">Journal Entries</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/accounts-receivable.png" alt="Axiomatic Accounts Receivable" loading="lazy">
+          <div class="caption">Accounts Receivable</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/treasury.png" alt="Axiomatic Treasury" loading="lazy">
+          <div class="caption">Treasury</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/intercompany.png" alt="Axiomatic Intercompany" loading="lazy">
+          <div class="caption">Intercompany Transactions</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/consolidation.png" alt="Axiomatic Consolidation" loading="lazy">
+          <div class="caption">Multi-entity Consolidation</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/waterfall.png" alt="Axiomatic Waterfall" loading="lazy">
+          <div class="caption">Waterfall Distributions</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/zk-proofs.png" alt="Axiomatic ZK Proofs" loading="lazy">
+          <div class="caption">Verifiable ZK Proofs</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/practice.png" alt="Axiomatic Practice Management" loading="lazy">
+          <div class="caption">Practice Management</div>
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-ledger/activity.png" alt="Axiomatic Activity Feed" loading="lazy">
+          <div class="caption">Activity Feed</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="subsection">
+      <h4 class="subsection-title">Wallet App</h4>
+      <p class="subsection-desc">Noncustodial neobank — private balances, Visa card spend, DeFi yield, and bill pay, all from a passkey-secured smart wallet.</p>
+      <div class="gallery-mobile">
+        <div class="gallery-item">
+          <img src="assets/axiomatic-wallet/screen-home-dark.png" alt="Axiomatic Wallet Home" loading="lazy">
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-wallet/screen-earn-dark.png" alt="Axiomatic Wallet Earn" loading="lazy">
+        </div>
+        <div class="gallery-item">
+          <img src="assets/axiomatic-wallet/screen-onboarding-dark.png" alt="Axiomatic Wallet Onboarding" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ─── CAPSIGN ─── -->
+  <article class="project fade-in">
+    <div class="project-header">
+      <span class="project-tag">Founder</span>
+      <h3 class="project-name">CapSign</h3>
+      <p class="project-role">Equity management &amp; private capital markets platform</p>
+      <p class="project-description">End-to-end platform for creating, issuing, and managing securities — cap table management, fundraising, compliance workflows, fund administration, governance, document signing, and lending. Built on Base L2 with passkey-secured smart wallets.</p>
+      <div class="project-tech">
+        <span>TypeScript</span>
+        <span>Next.js</span>
+        <span>PostgreSQL</span>
+        <span>Prisma</span>
+        <span>Solidity</span>
+        <span>ERC-4337</span>
+        <span>WebAuthn</span>
+      </div>
+    </div>
+
+    <div class="gallery">
+      <div class="gallery-item featured">
+        <img src="assets/capsign/hero-equity.png" alt="CapSign Equity Dashboard" loading="lazy">
+        <div class="caption">Equity Dashboard — cap table, share class distribution, and capital raised</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/cap-table.png" alt="CapSign Cap Table" loading="lazy">
+        <div class="caption">Startup Cap Table</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/pe-cap-table-narrow.png" alt="CapSign PE Cap Table" loading="lazy">
+        <div class="caption">Private Equity Cap Table</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/offering-view.png" alt="CapSign Offering View" loading="lazy">
+        <div class="caption">Offering Detail</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/offering-management.png" alt="CapSign Offering Management" loading="lazy">
+        <div class="caption">Offering Management</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/fund-overview.png" alt="CapSign Fund Overview" loading="lazy">
+        <div class="caption">Fund Overview</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/fund-performance.png" alt="CapSign Fund Performance" loading="lazy">
+        <div class="caption">Fund Performance</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/lending-dashboard.png" alt="CapSign Lending Dashboard" loading="lazy">
+        <div class="caption">Lending Dashboard</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/trust-overview.png" alt="CapSign Trust Overview" loading="lazy">
+        <div class="caption">Trust Administration</div>
+      </div>
+      <div class="gallery-item">
+        <img src="assets/capsign/chart-of-accounts.png" alt="CapSign Chart of Accounts" loading="lazy">
+        <div class="caption">Chart of Accounts</div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ─── MEMETRADE ─── -->
+  <article class="project fade-in">
+    <div class="project-header">
+      <span class="project-tag">Founder</span>
+      <h3 class="project-name">MemeTrade</h3>
+      <p class="project-role">Meme token creation &amp; trading platform</p>
+      <p class="project-description">Create, discover, and trade meme tokens with automatic Uniswap V4 integration. Features on-chain governance, liquidity mining, and a native iOS app — all powered by passkey smart wallets on Base.</p>
+      <div class="project-tech">
+        <span>TypeScript</span>
+        <span>Next.js</span>
+        <span>React Native</span>
+        <span>Solidity</span>
+        <span>Uniswap V4</span>
+        <span>LayerZero</span>
+        <span>ERC-4337</span>
+      </div>
+    </div>
+
+    <div class="gallery-mobile">
+      <div class="gallery-item">
+        <img src="assets/memetrade/mockup.png" alt="MemeTrade App" loading="lazy">
+      </div>
+      <div class="gallery-item">
+        <img src="assets/memetrade/image1.png" alt="MemeTrade Screenshot 1" loading="lazy">
+      </div>
+      <div class="gallery-item">
+        <img src="assets/memetrade/image2.png" alt="MemeTrade Screenshot 2" loading="lazy">
+      </div>
+      <div class="gallery-item">
+        <img src="assets/memetrade/image3.png" alt="MemeTrade Screenshot 3" loading="lazy">
+      </div>
+    </div>
+  </article>
+</section>
+
+<!-- ─── EARLIER WORK ─── -->
+<section class="section fade-in">
+  <p class="section-label">Earlier Work</p>
+  <h2 class="section-title">Before that</h2>
+  <p class="section-desc">Previous roles across payments, fintech, and enterprise software.</p>
+
+  <div class="earlier-grid">
+    <div class="earlier-card">
+      <h3>Linqto</h3>
+      <div class="role">VP of Ledger</div>
+      <p>Led product and engineering for ledger infrastructure managing $1B+ in assets. Spearheaded banking integrations with JP Morgan. Contributed to the launch of an SEC-registered Alternative Trading System.</p>
+    </div>
+    <div class="earlier-card">
+      <h3>Trustline</h3>
+      <div class="role">Co-Founder &amp; CEO — acquired by Linqto</div>
+      <p>Built lending infrastructure and multi-party settlement systems from scratch. Led the full acquisition process including technical due diligence and integration.</p>
+    </div>
+    <div class="earlier-card">
+      <h3>Ripple Labs</h3>
+      <div class="role">Software &amp; Integration Engineer</div>
+      <p>Delivered cross-border payment integrations for American Express and Banco Bradesco. Built cloud infrastructure supporting $100B+ in transaction volume.</p>
+    </div>
+    <div class="earlier-card">
+      <h3>Polyledger</h3>
+      <div class="role">Co-Founder</div>
+      <p>Built an automated portfolio management platform for digital assets with real-time data visualization and multi-exchange trading.</p>
+    </div>
+    <div class="earlier-card">
+      <h3>Zendesk</h3>
+      <div class="role">Application Developer</div>
+      <p>Shipped enterprise applications for Fortune 500 clients. Built developer tools, SDKs, and documentation for Zendesk's API platform.</p>
+    </div>
+    <div class="earlier-card">
+      <h3>Adobe</h3>
+      <div class="role">UC Berkeley Capstone</div>
+      <p>Developed an AI model to predict monthly active users as part of a UC Berkeley capstone collaboration with Adobe's product team.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ─── ABOUT ─── -->
+<section id="about" class="section fade-in">
+  <p class="section-label">About</p>
+  <h2 class="section-title">Background</h2>
+
+  <div class="about-content">
+    <div class="about-text">
+      <p>I'm a builder based in Monterey, CA. I've spent the last decade at the intersection of finance and engineering — shipping production systems for payments, securities, lending, and accounting.</p>
+      <p>I build fast and think in systems. My recent work uses AI-assisted development (Cursor, Claude) to ship full platforms in weeks. I care about clean interfaces, sound architecture, and getting things into users' hands.</p>
+      <p>When I'm not building, I'm probably reading about market microstructure, monetary policy, or whatever's happening on-chain.</p>
+    </div>
+    <div>
+      <ul class="education-list">
+        <li>
+          <div class="school">UC Berkeley</div>
+          <div class="degree">M.Eng, Industrial Engineering &amp; Operations Research</div>
+          <div class="year">2018 — Machine Learning, Optimization, Risk Modeling</div>
+        </li>
+        <li>
+          <div class="school">Stanford University</div>
+          <div class="degree">Certificate, Technology &amp; Innovation</div>
+          <div class="year">2015 — 12 credits including MS&amp;E 207</div>
+        </li>
+        <li>
+          <div class="school">Santa Clara University</div>
+          <div class="degree">B.S., Economics</div>
+          <div class="year">2015 — Econometrics, International Trade, Money &amp; Banking</div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ─── FOOTER ─── -->
+<footer class="footer">
+  <span class="footer-text">&copy; 2026 Matt Rosendin</span>
+  <div class="footer-links">
+    <a href="mailto:matt.rosendin@gmail.com">Email</a>
+    <a href="https://github.com/mrosendin" target="_blank">GitHub</a>
+    <a href="https://linkedin.com/in/mrosendin" target="_blank">LinkedIn</a>
+  </div>
+</footer>
+
+<!-- ─── LIGHTBOX ─── -->
+<div id="lightbox" class="lightbox">
+  <img src="" alt="">
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
