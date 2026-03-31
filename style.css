@@ -240,6 +240,20 @@ img {
   line-height: 1.65;
 }
 
+.project-site {
+  margin-top: 12px;
+  font-size: 14px;
+}
+
+.project-site a {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.project-site a:hover {
+  color: #818cf8;
+}
+
 .project-tech {
   display: flex;
   flex-wrap: wrap;
